@@ -1,0 +1,8 @@
+Warning: apt-key output should not be parsed (stdout is not a terminal)
+Warning: apt-key output should not be parsed (stdout is not a terminal)
+Warning: apt-key output should not be parsed (stdout is not a terminal)
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
+1 block
+cat: /boot/grub/grub.cfg: No such file or directory
+ config/hooks/cat-grub.chroot failed (exit non-zero). You should check for errors.
